@@ -5,6 +5,7 @@ TP_1
 @author: AHIDOTE Miguel SIRI
 """
 import urllib.request
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
